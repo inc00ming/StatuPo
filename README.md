@@ -3,7 +3,7 @@ Usage:
 * IP and ports are seperated with semicolon(";")
 
 How to Run:
-* python3 StatuPo.py #name-of-the-ip-port-file
+* python3 StatuPo.py name-of-the-ip-port-file
 
 Requirements:
 * termcolor
